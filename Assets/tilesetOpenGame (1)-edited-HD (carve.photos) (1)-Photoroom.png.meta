@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 5e7acb2a0a17d834693ba3b077dda9aa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilesetOpenGame (1)-edited-HD (carve.photos) (1)-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 30
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386277e0d1dde064e85ebdbec0f2d48e
+      internalID: -1622767808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame (1)-edited-HD (carve.photos) (1)-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 159
+        width: 72
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5e241e5b7f6a24b96ce7db45f35c95
+      internalID: -197902496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame (1)-edited-HD (carve.photos) (1)-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 96
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106356576702def49af54ccfaf7a21cc
+      internalID: 1493607524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame (1)-edited-HD (carve.photos) (1)-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746a085c43571e34fbe53e44538a4942
+      internalID: 1129487769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame (1)-edited-HD (carve.photos) (1)-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 63
+        width: 86
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df166635c61c83e4896152c73c6bef26
+      internalID: -611921706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame (1)-edited-HD (carve.photos) (1)-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 63
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3015c2285b6e30a4fac340ec497b0a80
+      internalID: -888972651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame (1)-edited-HD (carve.photos) (1)-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 97
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d0ca315eabb1447a43c8598bddb222
+      internalID: -1998875573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame (1)-edited-HD (carve.photos) (1)-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0a1b22c81f9a64fa2e64a996279896
+      internalID: -953235187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame (1)-edited-HD (carve.photos) (1)-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0370d3aedba01d941bd79532b32cda06
+      internalID: -1264123069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame (1)-edited-HD (carve.photos) (1)-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 96
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f67f651e6ae29438db86fd41bf5e6a
+      internalID: -2123181482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame (1)-edited-HD (carve.photos) (1)-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 127
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577ea5113bde93b4ab77344c14312be2
+      internalID: 719695265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame (1)-edited-HD (carve.photos) (1)-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 96
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276b106e846bbd643be6992ac620430a
+      internalID: -1039064839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tilesetOpenGame (1)-edited-HD (carve.photos) (1)-Photoroom_0: -1622767808
+      tilesetOpenGame (1)-edited-HD (carve.photos) (1)-Photoroom_1: 719695265
+      tilesetOpenGame (1)-edited-HD (carve.photos) (1)-Photoroom_10: -2123181482
+      tilesetOpenGame (1)-edited-HD (carve.photos) (1)-Photoroom_11: -1039064839
+      tilesetOpenGame (1)-edited-HD (carve.photos) (1)-Photoroom_2: -197902496
+      tilesetOpenGame (1)-edited-HD (carve.photos) (1)-Photoroom_3: 1493607524
+      tilesetOpenGame (1)-edited-HD (carve.photos) (1)-Photoroom_4: 1129487769
+      tilesetOpenGame (1)-edited-HD (carve.photos) (1)-Photoroom_5: -611921706
+      tilesetOpenGame (1)-edited-HD (carve.photos) (1)-Photoroom_6: -888972651
+      tilesetOpenGame (1)-edited-HD (carve.photos) (1)-Photoroom_7: -1998875573
+      tilesetOpenGame (1)-edited-HD (carve.photos) (1)-Photoroom_8: -953235187
+      tilesetOpenGame (1)-edited-HD (carve.photos) (1)-Photoroom_9: -1264123069
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
